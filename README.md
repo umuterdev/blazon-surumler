@@ -9,7 +9,7 @@ Başlatıcıyı indirip açın. Oyunu ve sonraki güncellemeleri başlatıcı ke
 - **Windows:** [BLAZON_Windows.zip](https://github.com/umuterdev/blazon-surumler/releases/download/baslatici/BLAZON_Windows.zip)
 - **Mac:** [BLAZON_Mac.zip](https://github.com/umuterdev/blazon-surumler/releases/download/baslatici/BLAZON_Mac.zip)
 
-Zip'i açın ve içindeki BLAZON'u çalıştırın.
+Zip'i bir klasöre çıkarın ve içindeki BLAZON'u çalıştırın. Windows'ta zip'e sağ tıklayıp **Tümünü ayıkla** deyin; zip'in içinden çalıştırırsanız oyun açılmaz. Mac'te zip'e çift tıklamak yeter.
 
 ## İlk açılış
 
